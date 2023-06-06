@@ -1,0 +1,1 @@
+I found that the system time for execution of the system call version of my code decreased from 2.666s to 0.009s when buffer size increased from 1 to 100000 and that system time for execution of the standard I/O version remained that same at 0.004s when I increased the buffer from 1 to 100000.
